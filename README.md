@@ -11,10 +11,10 @@ git clone git@github.com:lontelis/FBDz.git
 <br />
 
 # Prerequist
-python 2.7+ <br />
-numpy <br />
-matplotlib <br />  
-scipy <br />  
+python 2.7+ <br/>
+numpy <br/>
+matplotlib <br/>  
+scipy <br/>  
 cosmopit (software for cosmology https://github.com/lontelis/cosmopit )  <br />
 
 # USE example:  
