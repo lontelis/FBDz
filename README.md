@@ -6,7 +6,7 @@ In order to use these libraries one need to download these files in their direct
 <br />
 Simply execute on terminal:
 ```
-git clone https://github.com/lontelis/FBDz.git
+git clone git@github.com:lontelis/FBDz.git
 ```
 <br />
 
