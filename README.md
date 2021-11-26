@@ -15,7 +15,6 @@ python 2.7+ <br />
 numpy <br />
 matplotlib <br />  
 scipy <br />  
-<br />
 cosmopit (software for cosmology https://github.com/lontelis/cosmopit )  <br />
 <br />
 
