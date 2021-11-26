@@ -18,6 +18,10 @@ scipy <br />
 cosmopit (software for cosmology https://github.com/lontelis/cosmopit )  <br />
 
 # USE example:  
+Generate python using the command line 
+```ipython``` 
+and then execute
+``` run FBDz.py```
 
 # Citation
 If you use this code please cite at least the following paper: <br />
