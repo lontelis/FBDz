@@ -16,7 +16,6 @@ numpy <br />
 matplotlib <br />  
 scipy <br />  
 cosmopit (software for cosmology https://github.com/lontelis/cosmopit )  <br />
-<br />
 
 # USE example:  
 
