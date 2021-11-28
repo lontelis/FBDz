@@ -1,5 +1,5 @@
 # FBDz
-Factor of contaminant, bias, and growth of structure functional code, and using numerical examples
+Factor of contaminant, bias, and growth of structure functional code, with using numerical examples
 
 # INSTALLATION: 
 In order to use these libraries one need to download these files in their directory: <br />
