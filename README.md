@@ -25,7 +25,7 @@ and then execute
 
 # Citation
 If you use this code please cite at least the following paper: <br />
-P.Ntelis et al 2022 TBC <br />
+P.Ntelis et al 2022 https://arxiv.org/abs/2209.07472 <br />
 <br />
 
 # QUERIES:
